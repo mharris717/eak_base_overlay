@@ -1,0 +1,5 @@
+<overlay>
+  action: insert
+  after: "~1.2.7",
+</overlay>
+"grunt-contrib-coffee": "~0.7.0",
